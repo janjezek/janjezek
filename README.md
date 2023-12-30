@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning Laravel. [Check my notes](https://github.com/janjezek/laravel-learning/blob/main/laravel-learning.md).
 
 <!--
 **janjezek/janjezek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
