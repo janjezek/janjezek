@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'am Jan 👋
+
+I'm a self-taught programmer with a deep passion for generative AI. My projects leverage natural language processing and computer vision.
+
+Check out [ReadyMadeSpeech](https://readymadespeech.com/): an AI-powered, customizable wedding speech generator, that helps create memorable and heartfelt memories with ease.
 
 <!--
 **janjezek/janjezek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
