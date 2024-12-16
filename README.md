@@ -1,4 +1,4 @@
-### Hi, I'am Jan 👋
+### Hi, I'm Jan 👋
 
 I'm a self-taught programmer with a deep passion for generative AI. My projects leverage natural language processing and computer vision.
 
