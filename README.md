@@ -2,7 +2,7 @@
 
 I'm a self-taught programmer with a deep passion for generative AI. My projects leverage natural language processing and computer vision.
 
-- [ReadyMadeSpeech](https://readymadespeech.com/): an AI-powered, customizable wedding speech generator, that helps create memorable and heartfelt memories with ease.
+- [ReadyMadeSpeech](https://readymadespeech.com/): AI-powered, customizable wedding speech generator
 
 - [EarWitnessAI](https://github.com/janjezek/earwitnessai/): Open-source, AI-powered voice-to-text app for macOS
 
