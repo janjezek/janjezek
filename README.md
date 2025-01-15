@@ -1,8 +1,8 @@
 ### Hi, I'm Jan 👋
 
-I'm a self-taught programmer with a deep passion for generative AI. My projects leverage natural language processing and computer vision.
+I'm a self-taught programmer with a deep passion for generative AI. 
 
-- [ReadyMadeSpeech](https://readymadespeech.com/): AI-powered, customizable wedding speech generator
+- [ReadyMadeSpeech](https://readymadespeech.com/): The #1 AI Speech Generator
 
 - [EarWitnessAI](https://github.com/janjezek/earwitnessai/): Open-source, AI-powered voice-to-text app for macOS
 
