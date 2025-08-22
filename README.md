@@ -1,5 +1,7 @@
-### Hi, I'm Jan 👋
+# Hi, I'm Jan!
 
-Self-taught developer passionate about generative AI.
+Self-taught developer exploring AI
 
-- [ReadyMadeSpeech](https://readymadespeech.com/): The leading AI speech generator for weddings, special occasions, and eulogies.
+## My projects:
+
+- [ReadyMadeSpeech](https://readymadespeech.com/): AI speech generator for weddings, special occasions, and eulogies
